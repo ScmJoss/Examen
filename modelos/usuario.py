@@ -1,5 +1,5 @@
 class Usuario:
-    LIMITE_LIBROS = 3
+    LIMITE_LIBROS = 10
 
     def __init__(self, id, nombre):
         self.id = id
