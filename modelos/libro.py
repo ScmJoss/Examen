@@ -52,4 +52,4 @@ Préstamos: {self.prestamos}
         )
         libro.disponible = datos["disponible"]
         libro.prestamos = datos["prestamos"]
-        return libro
+        return libro 
