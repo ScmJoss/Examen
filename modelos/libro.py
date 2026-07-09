@@ -1,3 +1,4 @@
+#clase que representa un libro dentro del sistema de biblioteca
 class Libro:
     def __init__(self, id, titulo, autor, categoria):
         self.id = id
